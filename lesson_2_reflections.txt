@@ -1,0 +1,6 @@
+What happens when you initialize a repository? Why do you need to do it?
+	After initializing has created a file .git and i need do it for use all git features.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+	On staging area we can't work with these files untill we add them to WD
+
